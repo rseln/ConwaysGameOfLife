@@ -7,4 +7,4 @@ This project was a recreation of The Game of Life (also known simply as Life). L
 3. Any live cell with two or three live neighbours lives, unchanged, to the next generation
 4. Any dead cell with exactly three live neighbours will come to life
 
-The program would then iterate through many generations until all the cells are dead or when the user closes the program. 
+The program would then iterate through many generations until all the cells died or until the user closes the program. 
